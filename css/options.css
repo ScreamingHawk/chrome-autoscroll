@@ -1,0 +1,35 @@
+html {
+	font-size: 1.2em;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+#status {
+	margin-left: 10px;
+	color: red;
+	font-weight: bold;
+}
+
+.panel {
+	margin: 20px;
+	padding: 10px;
+	border: 1px solid grey;
+	background-color: #eee;
+}
+
+.panel div {
+	margin-top: 20px;
+}
+
+.panel div label {
+	display: inline-block;
+	width: 75px;
+}
+
+.panel div .help {
+	font-size: 0.8em;
+	margin-left: 5px;
+	color: #999;
+}
